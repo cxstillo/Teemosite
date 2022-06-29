@@ -1,0 +1,14 @@
+.open-background{
+    background: url("images/Teebackground.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navcolor{
+    background-color: #ffe08a !important;
+}
+.textcolor{
+    color: #dfc393 !important;
+
+}
